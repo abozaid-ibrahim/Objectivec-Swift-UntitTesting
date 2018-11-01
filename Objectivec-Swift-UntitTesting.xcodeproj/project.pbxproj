@@ -14,6 +14,9 @@
 		6CBC1D11218B991300862790 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CBC1D0F218B991300862790 /* LaunchScreen.storyboard */; };
 		6CBC1D1C218B991300862790 /* Objectivec_Swift_UntitTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBC1D1B218B991300862790 /* Objectivec_Swift_UntitTestingTests.swift */; };
 		6CBC1D27218B991300862790 /* Objectivec_Swift_UntitTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CBC1D26218B991300862790 /* Objectivec_Swift_UntitTestingUITests.swift */; };
+		83FC6DC557504B7457A99CFF /* Pods_Objectivec_Swift_UntitTesting.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F904589B1E67F976F107D2F /* Pods_Objectivec_Swift_UntitTesting.framework */; };
+		B76FE0AA4D755D812352CB54 /* Pods_Objectivec_Swift_UntitTestingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C42F9DBE3FBAC2105D1B547 /* Pods_Objectivec_Swift_UntitTestingUITests.framework */; };
+		DDE829938EE98AE8FCC0F946 /* Pods_Objectivec_Swift_UntitTestingTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF2EE28160E7FB91D1A60CC7 /* Pods_Objectivec_Swift_UntitTestingTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		37362170C519BF937676B673 /* Pods-Objectivec-Swift-UntitTesting.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTesting.release.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTesting/Pods-Objectivec-Swift-UntitTesting.release.xcconfig"; sourceTree = "<group>"; };
+		4C3C7E7848C2D7BCE56C1DB5 /* Pods-Objectivec-Swift-UntitTestingUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTestingUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTestingUITests/Pods-Objectivec-Swift-UntitTestingUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		5C42F9DBE3FBAC2105D1B547 /* Pods_Objectivec_Swift_UntitTestingUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Objectivec_Swift_UntitTestingUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBC1D03218B991200862790 /* Objectivec-Swift-UntitTesting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Objectivec-Swift-UntitTesting.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBC1D06218B991200862790 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6CBC1D08218B991200862790 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +53,12 @@
 		6CBC1D22218B991300862790 /* Objectivec-Swift-UntitTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Objectivec-Swift-UntitTestingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CBC1D26218B991300862790 /* Objectivec_Swift_UntitTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Objectivec_Swift_UntitTestingUITests.swift; sourceTree = "<group>"; };
 		6CBC1D28218B991300862790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F904589B1E67F976F107D2F /* Pods_Objectivec_Swift_UntitTesting.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Objectivec_Swift_UntitTesting.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9664C38C9FED227B88599B9F /* Pods-Objectivec-Swift-UntitTestingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTestingTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTestingTests/Pods-Objectivec-Swift-UntitTestingTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A8C9D99461DE235765C8831A /* Pods-Objectivec-Swift-UntitTestingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTestingTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTestingTests/Pods-Objectivec-Swift-UntitTestingTests.release.xcconfig"; sourceTree = "<group>"; };
+		A9B8AC910264BE2CDFE4479E /* Pods-Objectivec-Swift-UntitTesting.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTesting.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTesting/Pods-Objectivec-Swift-UntitTesting.debug.xcconfig"; sourceTree = "<group>"; };
+		D5AE4CC0817ED877A24230D0 /* Pods-Objectivec-Swift-UntitTestingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Objectivec-Swift-UntitTestingUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Objectivec-Swift-UntitTestingUITests/Pods-Objectivec-Swift-UntitTestingUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FF2EE28160E7FB91D1A60CC7 /* Pods_Objectivec_Swift_UntitTestingTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Objectivec_Swift_UntitTestingTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83FC6DC557504B7457A99CFF /* Pods_Objectivec_Swift_UntitTesting.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDE829938EE98AE8FCC0F946 /* Pods_Objectivec_Swift_UntitTestingTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +82,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B76FE0AA4D755D812352CB54 /* Pods_Objectivec_Swift_UntitTestingUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2709CC5DA8855EADFB3CFCAE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A9B8AC910264BE2CDFE4479E /* Pods-Objectivec-Swift-UntitTesting.debug.xcconfig */,
+				37362170C519BF937676B673 /* Pods-Objectivec-Swift-UntitTesting.release.xcconfig */,
+				9664C38C9FED227B88599B9F /* Pods-Objectivec-Swift-UntitTestingTests.debug.xcconfig */,
+				A8C9D99461DE235765C8831A /* Pods-Objectivec-Swift-UntitTestingTests.release.xcconfig */,
+				4C3C7E7848C2D7BCE56C1DB5 /* Pods-Objectivec-Swift-UntitTestingUITests.debug.xcconfig */,
+				D5AE4CC0817ED877A24230D0 /* Pods-Objectivec-Swift-UntitTestingUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5950669298E26296A3345E56 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8F904589B1E67F976F107D2F /* Pods_Objectivec_Swift_UntitTesting.framework */,
+				FF2EE28160E7FB91D1A60CC7 /* Pods_Objectivec_Swift_UntitTestingTests.framework */,
+				5C42F9DBE3FBAC2105D1B547 /* Pods_Objectivec_Swift_UntitTestingUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		6CBC1CFA218B991200862790 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +119,8 @@
 				6CBC1D1A218B991300862790 /* Objectivec-Swift-UntitTestingTests */,
 				6CBC1D25218B991300862790 /* Objectivec-Swift-UntitTestingUITests */,
 				6CBC1D04218B991200862790 /* Products */,
+				2709CC5DA8855EADFB3CFCAE /* Pods */,
+				5950669298E26296A3345E56 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -132,9 +172,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6CBC1D2B218B991300862790 /* Build configuration list for PBXNativeTarget "Objectivec-Swift-UntitTesting" */;
 			buildPhases = (
+				D67A2E35FF8B4BF7796D1D57 /* [CP] Check Pods Manifest.lock */,
 				6CBC1CFF218B991200862790 /* Sources */,
 				6CBC1D00218B991200862790 /* Frameworks */,
 				6CBC1D01218B991200862790 /* Resources */,
+				DA2C4B09148781CA97C97F46 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +191,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6CBC1D2E218B991300862790 /* Build configuration list for PBXNativeTarget "Objectivec-Swift-UntitTestingTests" */;
 			buildPhases = (
+				B92080455FB13F9D3CE294DC /* [CP] Check Pods Manifest.lock */,
 				6CBC1D13218B991300862790 /* Sources */,
 				6CBC1D14218B991300862790 /* Frameworks */,
 				6CBC1D15218B991300862790 /* Resources */,
@@ -167,6 +210,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6CBC1D31218B991300862790 /* Build configuration list for PBXNativeTarget "Objectivec-Swift-UntitTestingUITests" */;
 			buildPhases = (
+				28B43560924FBA3BB66F6EBC /* [CP] Check Pods Manifest.lock */,
 				6CBC1D1E218B991300862790 /* Sources */,
 				6CBC1D1F218B991300862790 /* Frameworks */,
 				6CBC1D20218B991300862790 /* Resources */,
@@ -250,6 +294,97 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		28B43560924FBA3BB66F6EBC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Objectivec-Swift-UntitTestingUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B92080455FB13F9D3CE294DC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Objectivec-Swift-UntitTestingTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D67A2E35FF8B4BF7796D1D57 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Objectivec-Swift-UntitTesting-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DA2C4B09148781CA97C97F46 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Objectivec-Swift-UntitTesting/Pods-Objectivec-Swift-UntitTesting-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PromiseKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Objectivec-Swift-UntitTesting/Pods-Objectivec-Swift-UntitTesting-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6CBC1CFF218B991200862790 /* Sources */ = {
@@ -430,6 +565,7 @@
 		};
 		6CBC1D2C218B991300862790 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9B8AC910264BE2CDFE4479E /* Pods-Objectivec-Swift-UntitTesting.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -447,6 +583,7 @@
 		};
 		6CBC1D2D218B991300862790 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37362170C519BF937676B673 /* Pods-Objectivec-Swift-UntitTesting.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -464,6 +601,7 @@
 		};
 		6CBC1D2F218B991300862790 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9664C38C9FED227B88599B9F /* Pods-Objectivec-Swift-UntitTestingTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,6 +622,7 @@
 		};
 		6CBC1D30218B991300862790 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A8C9D99461DE235765C8831A /* Pods-Objectivec-Swift-UntitTestingTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -504,6 +643,7 @@
 		};
 		6CBC1D32218B991300862790 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C3C7E7848C2D7BCE56C1DB5 /* Pods-Objectivec-Swift-UntitTestingUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -523,6 +663,7 @@
 		};
 		6CBC1D33218B991300862790 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5AE4CC0817ED877A24230D0 /* Pods-Objectivec-Swift-UntitTestingUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
