@@ -1,0 +1,6 @@
+framework module Pods_Objectivec_Swift_UntitTesting {
+  umbrella header "Pods-Objectivec-Swift-UntitTesting-umbrella.h"
+
+  export *
+  module * { export * }
+}
